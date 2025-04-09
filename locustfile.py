@@ -17,7 +17,7 @@ class ChatUser(HttpUser):
         first_question = random.choice(
             [
                 "What is included in my Northwind Health Plus plan that is not in standard?",
-                "What does a Product Manager do?",
+                "Does bill H296 affect existing business laws in Idaho?",
                 "What happens in a performance review?",
                 "Whats your whistleblower policy?",
             ]

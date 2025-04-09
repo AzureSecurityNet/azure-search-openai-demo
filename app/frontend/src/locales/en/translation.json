@@ -39,7 +39,7 @@
     "defaultExamples": {
         "1": "What Bills have been passed this year?",
         "2": "What Bills are about the enviornment?",
-        "3": "What does a Product Manager do?",
+        "3": "Does bill H296 affect existing business laws in Idaho??",
         "placeholder": "Type a new question (e.g. what bills invlove livestock?)"
     },
     "askTitle": "Ask your data",
